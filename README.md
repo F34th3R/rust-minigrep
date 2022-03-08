@@ -2,6 +2,8 @@
 
 Is an example of the popular tool `grep`.
 
+![image](./assets/screenshot.png)
+
 ## How to run it
 
 ### For normal use:
